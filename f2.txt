@@ -1,0 +1,3 @@
+E001;Nguyen Van Hoa;120, Le Loi, Q1;male;241
+E002;Tung Van Thanh;120, Le Loi, Q1;male;945
+E003;Le Van Loi;120, Le Loi, Q1;male;51269
